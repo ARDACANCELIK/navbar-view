@@ -1,1 +1,1 @@
-# responsive mobile friendly scaling navbar-view (hiding navbar in mobile view screen) 
+# responsive mobile friendly scaling navbar-view (hiding navbar in mobile  screen) 
